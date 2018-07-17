@@ -1,0 +1,11 @@
+---
+label: speech bubble
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: bubble_text
+  label: Bubble Text
+  description: Text that should go in the speech bubble
+  config:
+    required: true
